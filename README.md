@@ -13,7 +13,6 @@ I build **ETL/ELT pipelines** and **cloud-based data solutions** with a focus on
 ---
 
 ## 📂 Featured Projects
-- [**CLI Coffee Shop**](link-to-repo) – Command-line application simulating a coffee shop order system, built with Python and tested with Pytest.  
 - (More projects coming soon — see [portfolio repo](https://github.com/users/Brendon-maphosa-98/projects/1) for roadmap.)
 
 ---
