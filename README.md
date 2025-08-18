@@ -26,6 +26,6 @@ I build **ETL/ELT pipelines** and **cloud-based data solutions** with a focus on
 ---
 
 ## 📬 Connect
-- [LinkedIn](your-linkedin-url)  
+- [LinkedIn](https://www.linkedin.com/in/brendon-m-553635174/)  
 - Open to full-time **Data Engineering** opportunities.
 
