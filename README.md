@@ -18,10 +18,8 @@ I build **ETL/ELT pipelines** and **cloud-based data solutions** with a focus on
 ---
 
 ## 🚀 Current Focus
-- Deepening expertise in **orchestration tools** (Airflow, dbt).  
 - Expanding cloud knowledge with **AWS infrastructure as code** and **monitoring tools**.  
 - Building a portfolio of end-to-end data projects.  
-
 ---
 
 ## 📬 Connect
