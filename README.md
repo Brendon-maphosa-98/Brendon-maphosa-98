@@ -20,6 +20,7 @@ I build **ETL/ELT pipelines** and **cloud-based data solutions** with a focus on
 ---
 
 ## 🚀 Current Focus
+- I'm refactoring my projects from the Generation course to advance my technical skills, implement ETL best practices and explore new technologies.
 - Building a portfolio of end-to-end data projects.  
 ---
 
