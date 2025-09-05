@@ -1,6 +1,6 @@
-# 👋 Brendon — Data Engineer
+# 👋 Brendon — Data Professional
 
-**Data Engineer | Python • SQL • AWS (S3, Lambda, Redshift, EC2, CloudWatch, CloudFormation) • Docker • PostgreSQL • Grafana**
+**Data | Python • SQL • AWS (S3, Lambda, Redshift, EC2, CloudWatch, CloudFormation) • Docker • PostgreSQL • Grafana • Github Actions**
 
 ---
 
@@ -13,16 +13,17 @@ I build **ETL/ELT pipelines** and **cloud-based data solutions** with a focus on
 ---
 
 ## 📂 Featured Projects
+- [Cafe Cloud ETL Pipeline](https://github.com/Brendon-maphosa-98/Cafe-Cloud-ETL-Pipeline.git)
+- [Cafe CLI App](https://github.com/Brendon-maphosa-98/cafe_cli_app.git)
 - (More projects coming soon — see [portfolio repo](https://github.com/users/Brendon-maphosa-98/projects/1) for roadmap.)
 
 ---
 
 ## 🚀 Current Focus
-- Expanding cloud knowledge with **AWS infrastructure as code** and **monitoring tools**.  
 - Building a portfolio of end-to-end data projects.  
 ---
 
 ## 📬 Connect
 - [LinkedIn](https://www.linkedin.com/in/brendon-m-553635174/)  
-- Open to full-time **Data Engineering** opportunities.
+- Open to full-time **Data** opportunities.
 
