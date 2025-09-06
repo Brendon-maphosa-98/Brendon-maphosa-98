@@ -15,7 +15,6 @@ I build **ETL/ELT pipelines** and **cloud-based data solutions** with a focus on
 ## 📂 Featured Projects
 - [Cafe Cloud ETL Pipeline](https://github.com/Brendon-maphosa-98/Cafe-Cloud-ETL-Pipeline.git)
 - [Cafe CLI App](https://github.com/Brendon-maphosa-98/cafe_cli_app.git)
-- (More projects coming soon — see [portfolio repo](https://github.com/users/Brendon-maphosa-98/projects/1) for roadmap.)
 
 ---
 
